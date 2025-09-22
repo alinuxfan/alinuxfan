@@ -9,4 +9,3 @@
 🔍 Building scalable data platforms and smart analytics pipelines  
   
 Leadership-focused, always learning, and dedicated to helping teams deliver impactful data solutions.  
-Let's connect: LinkedIn | @alinuxfan  
