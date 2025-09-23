@@ -5,7 +5,7 @@
 🏢 Snowflake · Redshift · BigQuery · Azure Synapse · Databricks  
 🔗 Open Source Tools: Linux · Python · R  · dbt · Airflow · Postgres · MySQL · ClickHouse · Kafka  
 🧠 Machine Learning Tools: TensorFlow · PyTorch · Scikit-learn  
-📊 Visualization Tools: Looker · Tableau · PowerBI · Superset · Metabase · DataLens
+📊 Visualization Tools: Looker · Tableau · PowerBI · Superset · Metabase · DataLens  
 🔍 Building scalable data platforms and smart analytics pipelines  
   
 Leadership-focused, always learning, and dedicated to helping teams deliver impactful data solutions.  
