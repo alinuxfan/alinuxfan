@@ -18,4 +18,8 @@
 
 🔍 Building scalable data platforms and smart analytics pipelines
 
+🎖️ U.S. Army veteran and Bronze Star recipient; experienced leading high-performing teams in complex, mission-critical environments
+
+🤝 Mentor to veterans entering technology
+
 Leadership-focused, always learning, and dedicated to helping teams deliver impactful data solutions.
